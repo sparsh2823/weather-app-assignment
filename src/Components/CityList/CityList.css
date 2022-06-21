@@ -1,0 +1,14 @@
+.city-description {
+    border:1px solid black;
+    border-radius: 0.4em;
+    background-color: white;
+    color:black;
+    padding: 1.3em;
+    margin: 0.5em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-city-name{
+    padding-left: 1.5em;
+}
